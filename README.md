@@ -1,16 +1,41 @@
-### Hi there 👋
+<h1 align="center">
+  Hernán Rodríguez Colmeiro
+</h1>
+<p align="center">
+  JavaScript/Python Dev
+</p>
+<p align="center">
+  <strong>~</strong>
+</p>
+<p align="center">
+  Passionate about cooking
+</p>
+<p align="center">
+  <strong>~</strong>
+</p>
+<p align="center">
+  Mate drinker
+</p>
+<p align="center">
+  <strong>~</strong>
+</p>
+<p align="center">
+  Quemero
+  <br/><br/>:balloon:
+</p>
 
-<!--
-**peregrinogris/peregrinogris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong>I...</strong>
+  <br/>
+  <br/>
+  <strong>Code:</strong> <a href="http://github.com/peregrinogris">Here!</a>
+  <br />
+  <strong>Cook:</strong> <a href="https://github.com/peregrinogris/recetario">Recipes</a>
+  <br />
+  <strong>Socialize:</strong> <a href="https://twitter.com/peregrinogris">Twitter</a>
+  <br />
+  <strong>Work:</strong> <a href="http://linkedin.com/in/hernancolmeiro">LinkedIn</a>
+  <br />
+</p>
