@@ -34,7 +34,7 @@
   <br />
   <strong>Cook:</strong> <a href="https://github.com/peregrinogris/recetario">Recipes</a>
   <br />
-  <strong>Socialize:</strong> <a href="https://twitter.com/peregrinogris">Twitter</a>
+  <strong>Socialize:</strong> <a href="https://bsky.app/profile/peregrinogris.bsky.social">Bluesky</a>
   <br />
   <strong>Work:</strong> <a href="http://linkedin.com/in/hernancolmeiro">LinkedIn</a>
   <br />
